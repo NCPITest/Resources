@@ -11,7 +11,7 @@ NCPI hosted a spring virtual workshop spread across two sessions on May 1 and 6,
 | ----- | ---- | -------- | ---------------------- |
 | Fall 2024 Workshop | September 25-26. 2024 | The NCPI Fall 2024 Workshop, held on September 25-26, 2024, in Rockville, MD, brought together a diverse group of researchers, developers, and stakeholders to collaborate on breaking down silos and building bridges within the biomedical research ecosystem. The workshop included discussions on data interoperability, integration challenges, and the adoption of standards. Highlights included updates from the NIH Office of Data Science Strategy, interoperability project teams' success stories, and NCPI future plans. Participants explored major challenges in interoperability, the importance of community engagement, and discussed concrete steps forward to enhance NCPI's impact. The NCPI Program has produced a summary report of this event available below. | 2024 Workshop Report - Add Link|
 | Summer 2022 Workshop |June 22-23, 2022 | description to be added |
-| Fall 2021 workshop | October 2, 2021 | description to be added | 
+| Fall 2021 workshop | October 2, 2021 | The October 2021 NCPI Virtual Workshop was organized around key topics of interoperability, including PFB, FHIR, RAS, Search, and End-User Cloud Costs. We intend to produce two deliverables as a result of this workshop: a glossary and a list of concrete next steps, with assigned owners and use cases that drive priority next steps | 
 | Spring 2021 Workshop| May 3, 2021 | description to be added |
 | Fall 2020 Workshop | October 20, 2020 | description to be added |
 | Spring 2020 Workshop | April 16, 2020 | description to be added | 
