@@ -59,18 +59,10 @@ Helpful links to various cloud cost estimation documents are available from the 
 
 
 ## Events
-Since 2019, NCPI has held a series of workshops. These workshops cover 
+Since 2019, NCPI has held a series of workshops. These workshops cover the accomplishments, road maps, goals, and discussions around furthering NCPI.  
 
 [**See more**](add link) ←
 
-## Funding Opportunities
 
-> ⚠️ **The March 2023 solicitation for NCPI interoperability projects is now closed.**
-
-[**See archived announcement**](add link) ←
-
----
-
-*Website content is subject to change. This page was last reviewed on May 20, 2025.*
 
 
