@@ -118,7 +118,7 @@ The goal of this training session was to provide background information on the A
 | Session                                               | Materials                                                                                                                   |
 |-------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
 | Stack (IC) introductions                              | [Slides (/files/training/Stack introductions.pptx)](/files/training/Stack%20introductions.pptx), [Video](https://youtu.be/PspTGZIbw5I) |
-| Systems Interoperations WG update                     | [Slides 1](/files/training/20200317%20-%20NIH%20Cloud%20Ecosystems%20Interoperability%20-%20Train%20your%20Colleagues.pptx), [Video](https://youtu.be/-3bqz4B67QE) |
+| Systems Interoperations WG update                     | [Slides](/files/training/20200317%20-%20NIH%20Cloud%20Ecosystems%20Interoperability%20-%20Train%20your%20Colleagues.pptx), [Video](https://youtu.be/-3bqz4B67QE) |
 | Gen3 introduction                                     | [Video](https://youtu.be/tzqCYwQRgfU)                                                                                       |
 | Terra introduction                                    | [Slides PDF](/files/training/Terra%20Architecture%20and%20Design.pptx), [Video](https://youtu.be/eQwHTQKPCeA)                |
 | Dockstore introduction                                | [Slides](/files/training/Dockstore%20-%20Interoperability%20Workshop.pptx), [Video](https://youtu.be/fgrwJ1VN91s)            |
