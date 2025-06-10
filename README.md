@@ -17,7 +17,7 @@ NCPI members are exploring / developing the following technologies in support of
 - Fast Healthcare Interoperability Resources (FHIR)
 - Portable Format for Bioinformatics (PFB)
 
-[**See more**](add link) ←
+[**See more**](Technologies.md)
 
 ---
 
@@ -38,7 +38,7 @@ Previously recorded training sessions with slides and videos are also available:
 - **Train Your Colleague – Virtual Session**  
   *March 17–18, 2020*
 
-[**See more**](add link) ←
+[**See more**](Trainings.md)
 
 ---
 
@@ -51,7 +51,7 @@ Helpful links to various cloud cost estimation documents are available from the 
 - NCI Cancer Research Data Commons (CRDC)
 - Kids First Data Resource Center
 
-[**See more**](add link) ←
+[**See more**](Cloud%20Credit%20Estimation.md)
 
 ---
 
@@ -59,7 +59,7 @@ Helpful links to various cloud cost estimation documents are available from the 
 ## Events
 Since 2019, NCPI has held a series of workshops. These workshops cover the accomplishments, road maps, goals, and discussions around furthering NCPI.  
 
-[**See more**](add link) ←
+[**See more**](Past%20Events.md) 
 
 
 
