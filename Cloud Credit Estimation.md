@@ -1,5 +1,3 @@
-[Home](/) / [Resources](/resources) / **Cloud Credit Estimation**
-
 # Cloud Credit Estimation
 
 ## NHGRI Analysis and Visualization Lab-space (AnVIL)
@@ -38,13 +36,4 @@
 - [Kids First Cloud Credits Program](https://github.com/kids-first/kf-cloud-credits)  
 - [Estimating Cloud Computing Costs](https://github.com/kids-first/kf-cloud-credits/blob/main/estimatingcosts.md)  
 
----
 
-*Website content is subject to change. This page was last reviewed on May 20, 2025.*
-
-**Footer Links**  
-[Home](/) • [About](/about) • [Partners](/partners) • [Projects](/projects) • [Resources](/resources) • [Events](/events) • [Contact](/contact)  
-[Twitter](https://twitter.com/NIHCloudInterop) • [YouTube](https://www.youtube.com/@ncpi-acc) • [GitHub](https://github.com/NIH-NCPI)
-
-> This website was developed by the NCPI Administrative Coordinating Center (ACC)  
-> (NIH Other Transaction Agreement: 1OT2OD034190)
