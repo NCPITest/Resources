@@ -1,5 +1,3 @@
-[Home](/) / [Resources](/resources) / **Technologies**
-
 # Technologies
 
 > NCPI members are exploring or implementing the following technologies in support of cloud platform interoperability.
@@ -46,7 +44,3 @@ PFBs are used to bring search results from hosted datasets into workspace enviro
 Reproducibility of research is key to open science. Developed by the GA4GH Cloud Work Stream, the Workflow Execution Service (WES) API describes a standard protocol for running the same genomic data analysis in different environments and obtaining the same results. Rather than transferring data across national and institutional bounds—a process that is cumbersome, resource-intensive, and limited by regulatory constraints—the WES API is part of a larger framework to bring algorithms to genomic data.
 
 - For more information on this service, see the [Workflow Execution Service (WES) documentation](https://www.ga4gh.org/product/workflow-execution-service-wes/).
-
----
-
-*Website content is subject to change. This page was last reviewed on May 20, 2025.*
