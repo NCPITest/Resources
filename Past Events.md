@@ -15,6 +15,28 @@ NCPI hosted a spring virtual workshop spread across two sessions on May 1 and 6,
 | Spring 2020 Workshop | April 16, 2020 | description to be added | 
 | Fall 2019 Workshop | October 3, 2019 | description to be added | 
 
+## Past Workshops
+### Fall 2024 Workshop
+*September 25-26, 2024*
+
+The NCPI Fall 2024 Workshop, held on September 25-26, 2024, in Rockville, MD, brought together a diverse group of researchers, developers, and stakeholders to collaborate on breaking down silos and building bridges within the biomedical research ecosystem. The workshop included discussions on data interoperability, integration challenges, and the adoption of standards. Highlights included updates from the NIH Office of Data Science Strategy, interoperability project teams' success stories, and NCPI future plans. Participants explored major challenges in interoperability, the importance of community engagement, and discussed concrete steps forward to enhance NCPI's impact.
+
+[Fall 2024 Workshop Summary](Fall%202024%20Workshop.md)
+
+### Summer 2022 Workshop
+*June 22-23, 2022*
+
+[Agenda](Workshop_Resources/Agenda-NCPI_Spring2022_Virtual_Workshop.pdf) 
+
+Day 1
+* [Presentation Slides](Workshop_Resources/NCPI_Spring2022_Workshop-Day1-22JUN2022.pdf)
+* [Recording](https://youtu.be/gw92xQQOPQ4) 
+
+Day 2
+* [Presentation Slides Part 1](Workshop_Resources/NCPI-Spring-2022-Workshop-Day-2-Part-1.pdf)  
+* [Presentation Slides Part 2](Workshop_Resources/NCPI-Spring-2022-Workshop-Day-2-Part-2.pdf) 
+* [Recording](https://youtu.be/N8RLWqA5U40) 
+
 
 
 
