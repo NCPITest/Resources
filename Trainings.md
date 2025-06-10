@@ -117,14 +117,14 @@ The goal of this training session was to provide background information on the A
 
 | Session                                               | Materials                                                                                                                   |
 |-------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
-| Stack (IC) introductions                              | [Slides (/files/training/Stack introductions.pptx)](/files/training/Stack%20introductions.pptx), [Video](https://youtu.be/PspTGZIbw5I) |
-| Systems Interoperations WG update                     | [Slides](/files/training/20200317%20-%20NIH%20Cloud%20Ecosystems%20Interoperability%20-%20Train%20your%20Colleagues.pptx), [Video](https://youtu.be/-3bqz4B67QE) |
+| Stack (IC) introductions                              | [Slides](Training_Slides/Stack introductions.pdf), [Video](https://youtu.be/PspTGZIbw5I) |
+| Systems Interoperations WG update                     | [Slides](Training_Slides/Systems-Interoperations-WG-Update.pdf), [Video](https://youtu.be/-3bqz4B67QE) |
 | Gen3 introduction                                     | [Video](https://youtu.be/tzqCYwQRgfU)                                                                                       |
-| Terra introduction                                    | [Slides PDF](/files/training/Terra%20Architecture%20and%20Design.pptx), [Video](https://youtu.be/eQwHTQKPCeA)                |
-| Dockstore introduction                                | [Slides](/files/training/Dockstore%20-%20Interoperability%20Workshop.pptx), [Video](https://youtu.be/fgrwJ1VN91s)            |
-| PIC-SURE introduction                                 | [Slides](/files/training/PIC-SURE%20Train%20Your%20Colleagues%2003_17_20.pptx), [Video](https://youtu.be/jOdIlEybj4A)        |
+| Terra introduction                                    | [Slides Part 1](Training_Slides/Terra-Architecture-and-Design.pdf), [Slides Part 2](Training_Slides/Terra-Introduction.pdf), [Video](https://youtu.be/eQwHTQKPCeA)                |
+| Dockstore introduction                                | [Slides](Training_Slides/Dockstore-Introduction.pdf), [Video](https://youtu.be/fgrwJ1VN91s)            |
+| PIC-SURE introduction                                 | [Slides](Training_Slides/PIC-SURE-Introduction.pdf), [Video](https://youtu.be/jOdIlEybj4A)        |
 | Seven Bridges introduction                            | [Video](https://youtu.be/1wHenZ0QR08)                                                                                       |
-| ISB-CGC introduction                                  | [Slides](/files/training/ISB-CGC-Components.pdf), [Video](https://youtu.be/JDqm7NsG46Y)                                       |
+| ISB-CGC introduction                                  | [Slides](Training_Slides/ISB-CGC-Components.pdf), [Video](https://youtu.be/JDqm7NsG46Y)                                       |
 
 #### Day 2 – Use cases
 
