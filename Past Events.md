@@ -22,14 +22,14 @@ NCPI hosted a spring virtual workshop spread across two sessions on May 1 and 6,
 
 ### June 5, 2024 – Virtual Touchpoint on Interoperability
 On June 5, 2024, the NCPI program held its second Virtual Touchpoint, focusing on Interoperability Projects and attended by award institutions, companies, NIH ODSS representatives, and NCPI Working Group members. The event aimed to continue engagement from the first Touchpoint, allow Interoperability Projects to introduce their work and goals, discuss common challenges and integration opportunities, and identify topics for the upcoming NCPI Workshop in September 2024.  
-[View summary (Public Version)] - add Link
+[View summary (Public Version)](Workshop_Resources/NCPI_Virtual_Touchpoint_June_2024_Readout.pdf)
 
 ### April 21–24, 2024 – NCPI Presence at GA4GH Connect
 Members of NIH Cloud Platform Interoperability (NCPI) took part in the 2024 GA4GH Connect meeting in Switzerland. A goal of this meeting was the introduction of new Driver Projects including NCPI, the NHLBI BioData Catalyst (BDC), the Biomedical Research Hub (BRH), and others. NCPI representatives presented on program needs, focusing on data discovery and data governance challenges.
 
 Key points of NCPI participation included strategic engagement plans with GA4GH and collaborative discussions on RAS implementations to enable secure researcher access to NIH data sets.  
-[Download GA4GH Connect 2024 Meeting Report](/files/events/GA4GH_Connect_2024_Meeting_Report.pdf)
+[View GA4GH Connect 2024 Meeting Report](Workshop_Resources/GA4GH_Connect_2024_Meeting_Report.pdf)
 
 ### January 19, 2024 – Virtual Touchpoint on Interoperability
 On January 19, 2024, the NCPI program hosted a Virtual Touchpoint event with over 70 attendees from various NIH Institutes, the NIH Office of Data Science Strategy, and non-NIH institutions involved in NCPI Participating Partner Systems. The event aimed to discuss interoperability topics, share ideas and concerns, and build community momentum for the next NCPI Workshop.  
-[Download summary (Public Version)](/files/events/NCPI_Virtual_Touchpoint_January_2024_Readout.pdf)
+[View summary (Public Version)](Workshop_Resources/NCPI_Virtual_Touchpoint_January_2024_Readout.pdf)
