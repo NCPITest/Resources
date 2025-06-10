@@ -1,5 +1,3 @@
-[Home](/) / [Resources](/resources) / **Training**
-
 # Training
 
 ## Participating Partner Systems Training Resources
@@ -138,6 +136,4 @@ The goal of this training session was to provide background information on the A
 | Institute of Systems Biology – Cancer Genomics Cloud / CRDC use case                                    | [Video](https://youtu.be/kLgHSW-39XE)               |
 
 ---
-
-*Website content is subject to change. This page was last reviewed on May 20, 2025.*
 
