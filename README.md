@@ -1,5 +1,3 @@
-[Home](/) / **Resources**
-
 # Resources
 
 ## NCPI Dataset Catalog
