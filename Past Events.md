@@ -4,16 +4,6 @@
 ### 2025 NCPI Spring Workshop
 NCPI hosted a spring virtual workshop spread across two sessions on May 1 and 6, 2025. The goal of the workshop was to conduct a deep dive on Search across NCPI systems, FHIR, and data standards to understand the technical challenges that need to be addressed to advance technical interoperability and scientific research in the NCPI ecosystem. The NCPI ACC is working with NCPI leadership and the NCPI community to develop a 9-month roadmap based on the outcomes of these workshops.
 
-## Past Workshops
-| Event | Date | Overview | Additional Information | 
-| ----- | ---- | -------- | ---------------------- |
-| Fall 2024 Workshop | September 25-26. 2024 | The NCPI Fall 2024 Workshop, held on September 25-26, 2024, in Rockville, MD, brought together a diverse group of researchers, developers, and stakeholders to collaborate on breaking down silos and building bridges within the biomedical research ecosystem. The workshop included discussions on data interoperability, integration challenges, and the adoption of standards. Highlights included updates from the NIH Office of Data Science Strategy, interoperability project teams' success stories, and NCPI future plans. Participants explored major challenges in interoperability, the importance of community engagement, and discussed concrete steps forward to enhance NCPI's impact. The NCPI Program has produced a summary report of this event available below. | 2024 Workshop Report - Add Link|
-| Summer 2022 Workshop |June 22-23, 2022 | [Agenda](Workshop_Resources/Agenda-NCPI_Spring2022_Virtual_Workshop.pdf) <br> [Day 1 Presentation Slides](Workshop_Resources/NCPI_Spring2022_Workshop-Day1-22JUN2022.pdf) <br> [Day 1 Recording](https://youtu.be/gw92xQQOPQ4) <br> [Day 2 Presentation Slides - Part 1](Workshop_Resources/NCPI-Spring-2022-Workshop-Day-2-Part-1.pdf) <br> [Day 2 Presentation Slides - Part 2](Workshop_Resources/NCPI-Spring-2022-Workshop-Day-2-Part-2.pdf) <br> [Day 2 Recording](https://youtu.be/N8RLWqA5U40) |
-| Fall 2021 workshop | October 2, 2021 | [Agenda](Workshop_Resources/Fall-2021-Workshop-Agenda.pdf) <br> [Day 1 Slides](Workshop_Resources/Fall-2021-Workshop-Slides-Day-1.pdf) <br> [Day 1 Morning Session](https://youtu.be/FUpb7VEzJ24) <br> [Day 1 Afternoon Session](https://youtu.be/_1Y3Rw6uI8c) <br> [Day 2 Slides](Workshop_Resources/Fall-2021-Workshop-Slides-Day-2.pdf) <br> [Day 2 Morning Session](https://www.youtube.com/watch?v=2wBZ_2L9HBE) <br> [Day 2 Afernoon Session](https://www.youtube.com/watch?v=svZPWdGT03g) | 
-| Spring 2021 Workshop| May 3, 2021 | |
-| Fall 2020 Workshop | October 20, 2020 | description to be added |
-| Spring 2020 Workshop | April 16, 2020 | description to be added | 
-| Fall 2019 Workshop | October 3, 2019 | description to be added | 
 
 ## Past Workshops
 ### Fall 2024 Workshop
@@ -38,13 +28,66 @@ Day 2
 * [Recording](https://youtu.be/N8RLWqA5U40) 
 
 
+### Fall 2021 Workshop
+*October 5, 2021*
+
+[Agenda](Workshop_Resources/Fall-2021-Workshop-Agenda.pdf)
+
+Day 1:
+* [Presentation Slides](Workshop_Resources/Fall-2021-Workshop-Slides-Day-1.pdf) 
+* [Morning Session](https://youtu.be/FUpb7VEzJ24) 
+* [Afternoon Session](https://youtu.be/_1Y3Rw6uI8c) 
+
+Day 2: 
+  * [Slides](Workshop_Resources/Fall-2021-Workshop-Slides-Day-2.pdf)  
+  * [Morning Session](https://www.youtube.com/watch?v=2wBZ_2L9HBE)  
+  * [Afernoon Session](https://www.youtube.com/watch?v=svZPWdGT03g)
+
+### Spring 2021 Workshop
+*May 3, 2021*
+
+[Agenda](Workshop_Resources/Spring-2021-Workshop-Agenda.pdf)
+
+Day 1:
+* [Meeting Summary](Workshop_Resources/Spring-2021-Day-1-Summary.pdf)
+* [Presentation Slides](Workshop_Resources/Spring-2021-Day-1-Slides.pdf)
+* [Video](https://cbiit.webex.com/recordingservice/sites/cbiit/recording/8899a02f8e4e1039b7ef00505681aa7a/playback)
+
+Day 2:
+* [Meeting Summary](Workshop_Resources/Spring-2021-Day-2-Summary.pdf)
+* [Presentation Slides](Workshop_Resources/Spring-2021-Day-2-Slides.pdf)
+* [Video](https://cbiit.webex.com/recordingservice/sites/cbiit/recording/e403162f8f171039adbf0050568cfa13/playback)
 
 
+### Fall 2020 Workshop
+*October 30, 2020; November 2, 2020*
+
+[Agenda](Workshop_Resources/Fall-2020-Workshop-Agenda.pdf) 
+
+Day 1
+* [Presentation Slides](Workshop_Resources/Fall-2020-Day-1.pdf)
+* [Video](https://youtu.be/8HAxEvakPtk)
+
+Day 2: 
+* [Presentation Slides](Workshop_Resources/Fall-2020-Day-2.pdf)
+* [Video](https://youtu.be/Tzs1N30q5Z0)
 
 
+### Spring 2020 Workshop
+*April 16, 2020*
 
+[Agenda](Workshop_Resources/Spring-2020-Workshop-Agenda.pdf)
 
+[Meeting Summary](Workshop_Resources/Spring-2020-Workshop-Summary.pdf)
 
+[Presentation Slides](Workshop_Resources/Spring-2020-Presentation-Slides.pdf)
+
+[Session Recording](https://drive.google.com/file/d/1sk35jfEl6RDApApJIRawfof5wkXpU5O1/view)
+
+### Fall 2019 Workshop
+*October 3, 2019*
+
+[Agenda](Workshop_Resources/Fall-2019-Workshop-Agenda.pdf)
 
 ## Other Events
 
