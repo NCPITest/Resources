@@ -117,7 +117,7 @@ The goal of this training session was to provide background information on the A
 
 | Session                                               | Materials                                                                                                                   |
 |-------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
-| Stack (IC) introductions                              | [Slides](Training_Slides/Stack introductions.pdf), [Video](https://youtu.be/PspTGZIbw5I) |
+| Stack (IC) introductions                              | [Slides](Training_Slides/Stack%20introductions.pdf), [Video](https://youtu.be/PspTGZIbw5I) |
 | Systems Interoperations WG update                     | [Slides](Training_Slides/Systems-Interoperations-WG-Update.pdf), [Video](https://youtu.be/-3bqz4B67QE) |
 | Gen3 introduction                                     | [Video](https://youtu.be/tzqCYwQRgfU)                                                                                       |
 | Terra introduction                                    | [Slides Part 1](Training_Slides/Terra-Architecture-and-Design.pdf), [Slides Part 2](Training_Slides/Terra-Introduction.pdf), [Video](https://youtu.be/eQwHTQKPCeA)                |
