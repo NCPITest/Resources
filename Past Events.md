@@ -1,5 +1,3 @@
-[Home](/) / **Events**
-
 # Events
 
 ## NCPI Workshops
