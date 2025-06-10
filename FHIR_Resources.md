@@ -13,7 +13,7 @@ NCPI uses FHIR as a common standard for research data exchange, supporting the N
 - [**NCPI FHIR Implementation Guide (IG)**](https://github.com/NIH-NCPI/ncpi-fhir-ig-2?tab=readme-ov-file)  
   The *NCPI FHIR Implementation Guide v2* (NCPI FHIR IG v2) provides specifications, building blocks, interaction models, and use cases for FHIR within NCPI. It details study data structuring with specific FHIR Resource Types to ensure compliance and interoperability across NCPI platforms. A contributors guide is also available.
 
-- [**NCPI FHIR Aggregator**](https://fhir-aggregator.org/)
+- [**NCPI FHIR Aggregator**](https://fhir-aggregator.readthedocs.io/en/latest/)
   The NCPI FHIR Aggregator is a centralized catalog for FHIR data from various biomedical resources, such as clinical data, research study information, and OMICS data tied to specimens. Researchers can use it to search for patient phenotypes and associated data across these diverse sources. Learn more about the [FHIR Aggregator].
 
 - [**fhir-query tool**](https://github.com/FHIR-Aggregator/fhir-aggregator-client)  
