@@ -26,5 +26,5 @@ NCPI uses FHIR as a common standard for research data exchange, supporting the N
 
 To learn more about FHIR and its research applications:
 
-- [Introduction to FHIR for Research | Data Science at NIH]("https://datascience.nih.gov/fhir-initiatives/introduction-to-fhir-for-research")
-- [FHIR for Researchers Training | Data Science at NIH]("https://datascience.nih.gov/fhir-initiatives/researchers-training")
+- [Introduction to FHIR for Research](https://datascience.nih.gov/fhir-initiatives/introduction-to-fhir-for-research)
+- [FHIR for Researchers Training](https://datascience.nih.gov/fhir-initiatives/researchers-training)
