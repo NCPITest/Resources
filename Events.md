@@ -6,6 +6,7 @@
 ### 2025 NCPI Spring Workshop
 NCPI hosted a spring virtual workshop spread across two sessions on May 1 and 6, 2025. The goal of the workshop was to conduct a deep dive on Search across NCPI systems, FHIR, and data standards to understand the technical challenges that need to be addressed to advance technical interoperability and scientific research in the NCPI ecosystem. The NCPI ACC is working with NCPI leadership and the NCPI community to develop a 9-month roadmap based on the outcomes of these workshops.
 
+[Spring 2025 Workshop Summary](Spring%202025%20Workshop.md)
 
 ## Past Workshops
 ### Fall 2024 Workshop
