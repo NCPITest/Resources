@@ -1,3 +1,5 @@
+[Home](https://github.com/NCPITest)/[Resources](README.md)/Events
+
 # Events
 
 ## NCPI Workshops
