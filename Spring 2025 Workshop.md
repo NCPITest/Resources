@@ -1,14 +1,5 @@
 # Spring 2025 NCPI Workshop Readout
 
-<h2> Introduction </h2>
-
-The National Institutes of Health (NIH) Cloud Platform Interoperability (NCPI) hosted a virtual workshop spread across two sessions on May 1 and May 6, 2025. The goal of the workshop was to conduct a deep dive on Search across NCPI systems, FHIR, and data standards to understand the technical challenges that need to be addressed to advance technical interoperability and scientific research in the NCPI ecosystem. 
-
-Based on the output of the workshop, the NCPI Administrative Coordinating Center (ACC) will collaborate with NCPI leadership and the NCPI community to develop a roadmap to advance the NCPI ecosystem over the next nine months, focusing on enhancing search capabilities and continuing work towards developing the FHIR Implementation Guide. The roadmap will include key milestones, timelines, and engaged groups/individuals. 
-
-This document summarizes the discussion from the workshop, provides key themes and discussion points, and identifies potential actions for inclusion in the roadmap. 
-
-
 <details>
 <summary>Table of Contents</summary>
 
@@ -25,6 +16,15 @@ This document summarizes the discussion from the workshop, provides key themes a
   - [Potential Actions for Inclusion in NCPI Roadmap](#-potential-actions-for-inclusion-in-ncpi-roadmap--1)
 
 </details>
+
+
+<h2> Introduction </h2>
+
+The National Institutes of Health (NIH) Cloud Platform Interoperability (NCPI) hosted a virtual workshop spread across two sessions on May 1 and May 6, 2025. The goal of the workshop was to conduct a deep dive on Search across NCPI systems, FHIR, and data standards to understand the technical challenges that need to be addressed to advance technical interoperability and scientific research in the NCPI ecosystem. 
+
+Based on the output of the workshop, the NCPI Administrative Coordinating Center (ACC) will collaborate with NCPI leadership and the NCPI community to develop a roadmap to advance the NCPI ecosystem over the next nine months, focusing on enhancing search capabilities and continuing work towards developing the FHIR Implementation Guide. The roadmap will include key milestones, timelines, and engaged groups/individuals. 
+
+This document summarizes the discussion from the workshop, provides key themes and discussion points, and identifies potential actions for inclusion in the roadmap. 
 
 
 <h2> Workshop Overview </h2> 
@@ -74,6 +74,7 @@ The workshop outputs are summarized below. The potential actions for inclusion i
 
 
 <h3> Session 2: FHIR </h3>
+
 NCPI faces the challenge of exchanging many types of biomedical data for researchers to find and use. To address this, NCPI uses the [Fast Healthcare Interoperability Resources (FHIR)](https://www.hl7.org/fhir/) data exchange standard. This workshop focused on the status and challenges of FHIR implementation across NCPI.
 
 <h4> Key Themes and Discussion Points </h4>
