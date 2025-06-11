@@ -8,21 +8,18 @@ Based on the output of the workshop, the NCPI Administrative Coordinating Center
 
 This document summarizes the discussion from the workshop, provides key themes and discussion points, and identifies potential actions for inclusion in the roadmap. 
 
-## Table of Contents
 
-Introduction 
-<p>&nbsp;&nbsp;&nbsp;&nbsp; Workshop Overview </p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; Workshop Logistics </p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; Workshop Attendees </p>
-Workshop Outputs
-<p>&nbsp;&nbsp;&nbsp;&nbsp; Session 1: Search </p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Key Themes and Discussion Points </p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Potential Actions for Inclusion in NCPI Roadmap </p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; Session 2: FHIR Implementation </p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Key Themes and Discussion Points </p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Potential Actions for Inclusion in NCPI Roadmap </p>
+<details>
+<summary>Table of Contents</summary>
 
+- [Introduction](#Introduction)
+- [Workshop Overview](#workshop-overview)
+  - [Workshop Logistics](#workshop-logistics)
+  - [Workshop Attendees](#workshop-attendees)
+- [Workshop Outputs](#workshop-outputs)
+- [Session 1: Search]()
 
+</details>
 
 
 
