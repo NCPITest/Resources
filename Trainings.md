@@ -1,4 +1,4 @@
-[Home](https://github.com/NCPITest)/[Resources](README.md)/Trainings
+[Home](https://github.com/NCPITest)/[Resources](README.md)/Training
 
 # Training
 
