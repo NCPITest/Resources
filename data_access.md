@@ -66,7 +66,7 @@ Once data is identified and DAC approval is obtained, the Researcher Authenticat
 
 - RAS uses existing NIH logins including Login.gov and ID.me
 - It facilitates a single sign-on experience, allowing researchers to present their authorized permissions to multiple data platforms more easily after DAC approval  
-- NCPI partner systems are implementing RAS-mediated access
+- NCPI partner systems are in the process of implementing RAS-mediated access
 
 - Learn More: [Researcher Auth Service Initiative](https://datascience.nih.gov/researcher-auth-service-initiative)
 
