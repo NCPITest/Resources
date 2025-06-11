@@ -45,6 +45,7 @@ The workshop outputs are summarized below. The potential actions for inclusion i
 * **Enhanced Search Capabilities**: Currently, researchers have limited understanding of available data before applying for access. Ideally, semantic search and pre-analysis capabilities would allow researchers to understand the available data before applying for access.
 
 <h4> Potential Actions for Inclusion in NCPI Roadmap </h4>
+
 *Unified Search - No Single Door*
 * Complete a landscape analysis of existing metadata models.
 * Identify use cases where unified systems have been achieved and how to build off them.
@@ -67,7 +68,29 @@ The workshop outputs are summarized below. The potential actions for inclusion i
 * Develop knowledge graphs to facilitate search.
 
 
+<h3> Session 2: FHIR </h3>
+NCPI faces the challenge of exchanging many types of biomedical data for researchers to find and use. To address this, NCPI uses the [Fast Healthcare Interoperability Resources (FHIR)](https://www.hl7.org/fhir/) data exchange standard. This workshop focused on the status and challenges of FHIR implementation across NCPI.
 
+<h4> Key Themes and Discussion Points </h4>
 
+* **Testing and Implementation**: The testing of servers and implementation guidelines through use cases is crucial for identifying and addressing gaps and missing features. Participants recommended providing information on the functional capabilities of FHIR servers that inform users on what functions they can use to search, call, or aggregate data across different FHIR servers.
+* **FHIR Education and Training**: Participants emphasized the importance of developing and curating training materials for researchers. Although the development and implementation of FHIR standards are essential, researchers and other individual users may be unfamiliar with the FHIR format. They would benefit from introductory training on the subject, as FHIR itself is not intuitive.
+* **Navigating the Differences between Observational and Clinical Research**: Data collected for different purposes, including for clinical trials, research studies, and the provision of clinical care can all be informative for research, but may be formatted differently or refer to similar but distinct concepts (e.g., a lab result indicating diabetes is distinct from a patient stating on a survey that they have diabetes which is different than a detailed clinical assessment.) Understanding how those data can differ, even when they are all in FHIR format, is important for researchers. Having information directly from an EHR via bulk FHIR would provide access to a much wider range of data for research, but detailed technical and clinical knowledge is needed to fully make use of that data as well as information about consent for using that information for research.
+* **Managing Metadata**: Participants reiterated the importance of metadata harmonization. This harmonization is essential for reformatting and integrating data, governing what data transformations can be performed. A balance is required to minimize complexity, as increasing flexibility for data submitters imposes burdens on consumers of the data platforms.
+  
+<h4> Potential Actions for Inclusion in NCPI Roadmap </h4>
+
+*Testing and Implementation*
+* Complete FHIR Implementation Guide.
+* Support FHIR implementation and testing including transformations of FHIR data by platform teams.
+
+*FHIR Education and Training*
+* Focus on sustainability, including tools and education for researchers, specifically tools to facilitate the use of FHIR research data and FHIR APIs.
+
+*Navigating the Differences between Observational and Clinical Research*
+* Explore other gaps not addressed directly by FHIR, including the differences in how data from observational trials, clinical trials, and clinical care is represented.
+
+*Managing Metadata*
+* Consider additional solutions for advancing the use of common data elements (CDEs), determining which vocabularies and ontologies should be used, and other metadata issues.
 
 
