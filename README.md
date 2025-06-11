@@ -2,10 +2,11 @@
 
 <div align="center">
   <h2>
-    <a href="https://github.com/NCPITest/About">About</a> |
-    <a href="https://github.com/NCPITest/Partners">Partners</a> |
-    <a href="https://github.com/NCPITest/Projects">Projects</a> |
-    <a href="https://github.com/NCPITest/Resources">Resources</a>
+    <a href="https://github.com/NCPITest">Home</a> |
+    <a href="https://github.com/NCPITest/About/blob/main/README.md"> About</a> |
+    <a href="https://github.com/NCPITest/Partners/blob/main/README.md">Partners</a> |
+    <a href="https://github.com/NCPITest/Projects/blob/main/README.md"> Projects </a> |
+    <a> Resources </a>
   </h2>
 </div>
 
