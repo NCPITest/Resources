@@ -25,7 +25,7 @@ The NCPI Dataset Catalog lets users view, browse, and search datasets available 
 
 ## Technologies
 
-NCPI members are exploring / developing the following technologies in support of cloud platform interoperability:
+NCPI members are exploring/developing the following technologies in support of cloud platform interoperability:
 
 - Researcher Auth Service (RAS)
 - Data Repository Service (GA4GH DRS)
