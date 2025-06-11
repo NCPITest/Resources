@@ -12,12 +12,17 @@ This document summarizes the discussion from the workshop, provides key themes a
 <details>
 <summary>Table of Contents</summary>
 
-- [Introduction](#Introduction)
-- [Workshop Overview](#workshop-overview)
-  - [Workshop Logistics](#workshop-logistics)
-  - [Workshop Attendees](#workshop-attendees)
-- [Workshop Outputs](#workshop-outputs)
-- [Session 1: Search]()
+- [Introduction](#-introduction-)
+- [Workshop Overview](#-workshop-overview-)
+  - [Workshop Logistics](#-workshop-logistics-)
+  - [Workshop Attendees](-#workshop-attendees-)
+- [Workshop Outputs](#-workshop-outputs-)
+- [Session 1: Search](#-session-1-search-)
+  - [Key Themes and Discussion Points](#-key-themes-and-discussion-points-)
+  - [Potential Actions for Inclusion in NCPI Roadmap](#-potential-actions-for-inclusion-in-ncpi-roadmap-)
+- [Session 2: FHIR](#-session-2-fhir-)
+  - [Key Themes and Discussion Points](#-key-themes-and-discussion-points--1)
+  - [Potential Actions for Inclusion in NCPI Roadmap](#-potential-actions-for-inclusion-in-ncpi-roadmap--1)
 
 </details>
 
