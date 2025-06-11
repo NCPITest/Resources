@@ -1,6 +1,6 @@
 # Accessing NCPI Datasets
 
-Many biomedical datasets, especially those with human genomic and phenotypic information, require a formal access process. This process ensures responsible use, respecting participant consent and data use limitations.
+Many biomedical datasets, especially those with human genomic and phenotypic information, require a formal access process. This process ensures responsible use, respecting participant consent for the use of data, and adherence to data use limitations.
 
 ---
 
