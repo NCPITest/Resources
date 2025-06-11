@@ -2,6 +2,8 @@
 
 Many biomedical datasets, especially those with human genomic and phenotypic information, require a formal access process. This process ensures responsible use, respecting participant consent for the use of data, and adherence to data use limitations.
 
+Please note, this page is intended to provide an informal introduction to the concepts and steps involved in requesting data access. It does not represent the official policies or procedures of the NIH, and any details here should be verified against the latest guidance on the NIH’s own websites and documentation.
+
 ---
 
 ## Quick Start Guide
