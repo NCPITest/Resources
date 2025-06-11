@@ -1,4 +1,4 @@
-[Home](https://github.com/NCPITest)/[Resources](README.md)/Events
+[Home](https://github.com/NIH-NCPI)/[Resources](README.md)/Events
 
 # Events
 
