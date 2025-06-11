@@ -48,9 +48,9 @@ A Data Access Request (DAR) is a formal application submitted by a researcher to
 
 ## Data Access Committees (DACs)
 
-Data Access Committees (DACs) review DARs. Composed of experts in science, ethics, privacy, and data security, DACs evaluate the research proposal's merit, its consistency with data use limitations, and the adequacy of data security plans before approving or denying requests[^2][^3].
+Data Access Committees (DACs) review DARs. Composed of experts in science, ethics, privacy, and data security, DACs evaluate the research proposal's merit, its consistency with data use limitations, and the adequacy of data security plans before approving or denying requests.
 
-DACs may request additional information if the proposed research is inconsistent with data use limitations or if there are concerns about potential harm to groups or populations[^2].
+DACs may request additional information if the proposed research is inconsistent with data use limitations or if there are concerns about potential harm to groups or populations.
 
 - Learn about NIH DACs: [Data Access Request, DAR Approvals and Disapprovals](https://osp.od.nih.gov/policies/scientific-data-management-policy/data-access-request-dar-approvals-and-disapprovals-by-data-access-committee-dac/)
 
