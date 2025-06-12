@@ -16,10 +16,10 @@ This is an extensive collection of training resources covering major AnVIL compo
 - [Help Desk](https://anvilproject.org/help)
 
 **Social links**
-- [🐦 X/Twitter](https://twitter.com/useAnVIL)
-- [💬 Slack](https://join.slack.com/t/anvil-community/shared_invite/zt-hsyfam1w-LXlCv~3vNLSfDj~qNd5uBg)
-- [🐙 GitHub](https://github.com/anvilproject)
-- [▶️ YouTube](https://www.youtube.com/channel/UCBbHCj7kUogAMFyBAzzzfUw)
+- [X/Twitter](https://twitter.com/useAnVIL)
+- [Slack](https://join.slack.com/t/anvil-community/shared_invite/zt-hsyfam1w-LXlCv~3vNLSfDj~qNd5uBg)
+- [GitHub](https://github.com/anvilproject)
+- [YouTube](https://www.youtube.com/channel/UCBbHCj7kUogAMFyBAzzzfUw)
 
 ---
 
@@ -36,7 +36,7 @@ This is BDC's documentation on data access, exploration, and analysis, as well a
 - [Help Desk](https://biodatacatalyst.nhlbi.nih.gov/contact)
 
 **Social links**
-- [🐦 X/Twitter](https://twitter.com/search?q=%23BioDataCatalyst)
+- [X/Twitter](https://twitter.com/search?q=%23BioDataCatalyst)
 
 ---
 
@@ -51,13 +51,13 @@ This is a comprehensive collection of CRDC training resources developed by Seven
 - [Video tutorials](https://datacommons.cancer.gov/support-crdc-data-commons)
 
 **User Support**
-- ✉️ [Email support](mailto:NCICRDC@mail.nih.gov)
+- [Email support](mailto:NCICRDC@mail.nih.gov)
 
 **Social links**
-- [🐦 #NCICommons](https://twitter.com/search?q=%23ncicommons&lang=en)
-- [🐦 @genomicscloud](https://twitter.com/search?q=%40genomicscloud)
-- [🐦 @BroadFireCloud](https://twitter.com/search?q=%40BroadFireCloud)
-- [🐦 @isb_cgc](https://twitter.com/isb_cgc?lang=en)
+- [#NCICommons](https://twitter.com/search?q=%23ncicommons&lang=en)
+- [@genomicscloud](https://twitter.com/search?q=%40genomicscloud)
+- [@BroadFireCloud](https://twitter.com/search?q=%40BroadFireCloud)
+- [@isb_cgc](https://twitter.com/isb_cgc?lang=en)
 
 ---
 
@@ -69,7 +69,7 @@ The Kids First DRC supports the [Kids First Data Resource Portal](https://portal
 - [Kids First Help Center](https://d3b.notion.site/Kids-First-DRC-Help-Center-c26b36ff66564417834f3f264475d10a)
 - [Cavatica Support Documentation](https://docs.cavatica.org/)
 - [CFDE Training Documents for Kids First and Cavatica](https://training.nih-cfde.org/en/latest/Common-Fund-Tools/Kids-First/index.html)
-- ▶️ [Recorded Webinars and Demonstrations](https://www.youtube.com/channel/UCK9sPu0j4_ci4m3nNFa6gVw/featured)
+- [Recorded Webinars and Demonstrations](https://www.youtube.com/channel/UCK9sPu0j4_ci4m3nNFa6gVw/featured)
 
 **User Support**
 - ✉️ [Email support](mailto:support@kidsfirstdrc.org)
@@ -77,9 +77,9 @@ The Kids First DRC supports the [Kids First Data Resource Portal](https://portal
 - [Kids First Forum](https://forum.kidsfirstdrc.org)
 
 **Social Links**
-- [🐙 GitHub](https://github.com/kids-first)
-- [📘 Facebook](https://www.facebook.com/kidsfirstDRC/?ref=bookmarks)
-- [🐦 X/Twitter](https://twitter.com/kidsfirstdrc?lang=en)
+- [GitHub](https://github.com/kids-first)
+- [Facebook](https://www.facebook.com/kidsfirstDRC/?ref=bookmarks)
+- [X/Twitter](https://twitter.com/kidsfirstdrc?lang=en)
 
 ---
 
@@ -88,7 +88,7 @@ The Kids First DRC supports the [Kids First Data Resource Portal](https://portal
 ### NCPI Cross Platform Data Access Demo (July 27, 2021)
 
 A demonstration of accessing datasets from four NCPI platforms in a single computational workspace.  
-[Watch on ▶️ YouTube](https://www.youtube.com/watch?v=YGZTxDdaWqk)
+[Watch on YouTube](https://www.youtube.com/watch?v=YGZTxDdaWqk)
 
 ---
 
