@@ -1,4 +1,4 @@
-[Home](https://github.com/NIH-NCPI)/[Resources](README.md)/Fall 2025 Workshop
+[Home](https://github.com/NIH-NCPI)/[Resources](README.md)/[Events](Events.md)/Fall 2025 Workshop
 
 # NCPI Workshop Fall 2024
 
