@@ -7,7 +7,7 @@
 
 - [Introduction](#-introduction-)
 - [Workshop Goals](#-workshop-goals-)
-- [Key Themes and Discussion](-key-themes-and-discussions-)
+- [Key Themes and Discussion](#-key-themes-and-discussions-)
 - [Strategic Plans and Future Decisions](#-strategic-plans-and-future-decisions-)
 
 </details>
