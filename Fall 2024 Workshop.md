@@ -1,8 +1,21 @@
-NCPI Workshop Fall 2024: Readout
-=======================================================
+[Home](https://github.com/NIH-NCPI)/[Resources](README.md)/Fall 2025 Workshop
+
+# NCPI Workshop Fall 2024
+
+<details>
+<summary>Table of Contents</summary>
+
+- [Introduction](#-introduction-)
+- [Workshop Goals](#-workshop-goals-)
+- [Key Themes and Discussion](-key-themes-and-discussions-)
+- [Strategic Plans and Future Decisions](#-strategic-plans-and-future-decisions-)
+
+</details>
+
+<h2> Introduction </h2>
 The National Institute of Health (NIH) Cloud Platform Interoperability (NCPI) 2024 Fall Workshop held on September 25-26, 2024, in Rockville, MD, convened researchers, developers, and stakeholders from NCPI systems and NIH institutes. The workshop aimed to advance NCPI's mission of enhancing data interoperability, collaboration, dismantling silos, and fostering connectivity within the biomedical research ecosystem.
 
-**Goals of the Workshop**
+<h2> Workshop Goals </h2>
 
 The primary objectives of this workshop were to: 
   1. Define NCPI and its offerings.
@@ -11,7 +24,7 @@ The primary objectives of this workshop were to:
   4. Foster a culture of collaboration and communication.
   5. Identify and begin to address critical challenges in data integration and interoperability.
 
-**Key Themes and Discussions**
+<h2> Key Themes and Discussions </h2>
 
 Discussions and Sessions at the September 2024 NCPI Workshop addressed the following key themes: 
 * **Defining NCPI and Enhancing Collaboration**: Participants emphasized the need for clear definitions of NCPI's offerings and coordinated product roadmaps. Roundtable discussions highlighted practical solutions for data integration and the importance of community engagement. A systematic approach to tackling data integration challenges incrementally was agreed upon.
@@ -21,7 +34,8 @@ Discussions and Sessions at the September 2024 NCPI Workshop addressed the follo
 * **NCPI GA4GH Driver Project**: Workshop attendees also discussed the role of NCPI as a driver project for the Global Alliance for Genomics and Health (GA4GH). As NCPI is the largest repository of biomedical data currently available, it presents a unique opportunity to test, implement, and refine the standards of GA4GH to the benefit of both organizations. This workshop specifically focused on updates to GA4GH’s Data
 Repository Standard (DRS) and discussions around the future of the GA4GH Passport specification. These updates are important for NCPI as DRS is a fundamental service enabling data set retrieval and the GA4GH passport specification is the basis for the Researcher Auth Service being implemented across NCPI to enable controlled data access through researcher authentication and authorization.
 
-**Strategic Plans and Future Decisions**
+<h2> Strategic Plans and Future Decisions </h2>
+
 Looking ahead, the NCPI program aims to:
   1. Define and progress along a flexible and adaptable tactical roadmap that addresses both immediate and long-term needs.
   2. Enhance data discoverability and access interoperability.
