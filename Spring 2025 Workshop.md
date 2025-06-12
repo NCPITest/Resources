@@ -1,4 +1,4 @@
-[Home](https://github.com/NIH-NCPI)/[Events](README.md)/Spring 2025 Workshop
+[Home](https://github.com/NIH-NCPI)/[Resources](README.md)/[Events](Events.md)/Spring 2025 Workshop
 
 # Spring 2025 NCPI Workshop 
 
