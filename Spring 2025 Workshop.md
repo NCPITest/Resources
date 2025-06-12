@@ -1,4 +1,6 @@
-# Spring 2025 NCPI Workshop Readout
+[Home](https://github.com/NIH-NCPI)/[Resources](README.md)/Spring 2025 Workshop
+
+# Spring 2025 NCPI Workshop 
 
 <details>
 <summary>Table of Contents</summary>
