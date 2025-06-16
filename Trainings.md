@@ -9,7 +9,7 @@
 This is an extensive collection of training resources covering major AnVIL components including [Terra](https://terra.bio/), [Gen3](https://gen3.org/), and [Dockstore](https://dockstore.org/). It includes information about setting up and managing accounts, accessing data, running analysis workflows, and performing interactive analyses.
 
 **Training Resources**
-- [Documentation](https://anvilproject.org/learn)
+- [Learn About AnVIL](https://anvilproject.org/learn)
 - [Video tutorials](https://anvilproject.org/learn/watch-videos-and-tutorials/anvil-videos)
 
 **User Support**
@@ -30,6 +30,8 @@ This is BDC's documentation on data access, exploration, and analysis, as well a
 **Training Resources**
 - [Documentation](https://bdcatalyst.gitbook.io)
 - [Learning resources](https://biodatacatalyst.nhlbi.nih.gov/resources/learn)
+- [User FAQs](https://bdcatalyst.freshdesk.com/support/solutions/folders/60000230495)
+
 
 **User Support**
 - [Support forum / knowledgebase](https://bdcatalyst.freshdesk.com/)
