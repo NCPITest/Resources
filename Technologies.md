@@ -31,6 +31,7 @@ The FHIR standard was created by HL7 using a modern web-based suite of API techn
 One of its goals is to facilitate interoperation between legacy health care systems; to make it easy to provide health care information on a wide variety of devices (from computers to tablets to cell phones); and to allow third-party application developers to provide medical applications that integrate into existing systems.
 
 - For more information and a definition of the FHIR standard, see [HL7 FHIR Release 5](https://www.hl7.org/fhir/overview.html).
+- For more information on NCPI FHIR Resources, see [FHIR Resources](FHIR_Resources.md)
 
 ## Portable Format for Bioinformatics (PFB)
 
