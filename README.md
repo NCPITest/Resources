@@ -10,12 +10,12 @@
   </h2>
 </div>
 
-# <p align="center"> Resources  </p>
+<h1> <p align="center"> Resources  </h1>
 
 
 
 
-## NCPI Dataset Catalog
+<h2> NCPI Dataset Catalog </h2>
 
 The NCPI Dataset Catalog lets users view, browse, and search datasets available across all resources to make the most effective use of the data managed by NCPI platforms. This allows biomedical researchers to understand what data are already available to aid with better experimental design of future studies and prevent duplication of current and past efforts.
 
@@ -23,7 +23,7 @@ The NCPI Dataset Catalog lets users view, browse, and search datasets available 
 
 ---
 
-## Technologies
+<h2> Technologies </h2>
 
 NCPI members are exploring/developing the following technologies in support of cloud platform interoperability:
 
@@ -37,7 +37,7 @@ NCPI members are exploring/developing the following technologies in support of c
 
 ---
 
-## Training
+<h2> Training </h2>
 
 A collection of training and outreach materials is available with documentation, video, user support, and social media links from the following participating partners:
 
@@ -58,7 +58,7 @@ Previously recorded training sessions with slides and videos are also available:
 
 ---
 
-## Cloud Credit Estimation
+<h2> Cloud Credit Estimation </h2>
 
 Helpful links to various cloud cost estimation documents are available from the following participating partners:
 
@@ -72,7 +72,8 @@ Helpful links to various cloud cost estimation documents are available from the 
 ---
 
 
-## Events
+<h2> Events </h2>
+
 Since 2019, NCPI has held a series of workshops. These workshops cover the accomplishments, road maps, goals, and discussions around furthering NCPI.  
 
 [**See more**](Events.md) 
