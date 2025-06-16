@@ -72,7 +72,7 @@ The Kids First DRC supports the [Kids First Data Resource Portal](https://portal
 - [Recorded Webinars and Demonstrations](https://www.youtube.com/channel/UCK9sPu0j4_ci4m3nNFa6gVw/featured)
 
 **User Support**
-- ✉️ [Email support](mailto:support@kidsfirstdrc.org)
+- [Email support](mailto:support@kidsfirstdrc.org)
 - [Monthly office hours](https://d3b.notion.site/Kids-First-Office-Hours-a77f6aa5889c4df4ae72302f92c51aa2) – 2nd Tuesday of each month
 - [Kids First Forum](https://forum.kidsfirstdrc.org)
 
