@@ -45,10 +45,10 @@ This is BDC's documentation on data access, exploration, and analysis, as well a
 This is a comprehensive collection of CRDC training resources developed by SevenBridges targeting users with different skill sets.
 
 **Training Resources**
-- [Documentation](https://datacommons.cancer.gov/support-researchers)
-- [Tutorials and how-to guides](https://datacommons.cancer.gov/webinars-and-presentations)
+- [Documentation - Support for Researchers](https://datacommons.cancer.gov/support-researchers)
+- [Tutorials and Guides - Support for CRDC Data Commons](https://datacommons.cancer.gov/support-crdc-data-commons)
 - [Apps gallery](https://datacommons.cancer.gov/support-crdc-cloud-resources)
-- [Video tutorials](https://datacommons.cancer.gov/support-crdc-data-commons)
+- [Video tutorials](https://datacommons.cancer.gov/webinars-and-presentations)
 
 **User Support**
 - [Email support](mailto:NCICRDC@mail.nih.gov)
