@@ -30,12 +30,13 @@ This is BDC's documentation on data access, exploration, and analysis, as well a
 **Training Resources**
 - [Documentation](https://bdcatalyst.gitbook.io)
 - [Learning resources](https://biodatacatalyst.nhlbi.nih.gov/resources/learn)
-- [User FAQs](https://bdcatalyst.freshdesk.com/support/solutions/folders/60000230495)
+- [Video resources](https://www.youtube.com/@nhlbibiodatacatalyst8024/playlists)
 
 
 **User Support**
 - [Support forum / knowledgebase](https://bdcatalyst.freshdesk.com/)
 - [Help Desk](https://biodatacatalyst.nhlbi.nih.gov/contact)
+- [User FAQs](https://bdcatalyst.freshdesk.com/support/solutions/folders/60000230495)
 
 **Social links**
 - [X/Twitter](https://twitter.com/search?q=%23BioDataCatalyst)
