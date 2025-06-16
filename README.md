@@ -31,6 +31,7 @@ NCPI members are exploring/developing the following technologies in support of c
 - Data Repository Service (GA4GH DRS)
 - Fast Healthcare Interoperability Resources (FHIR)
 - Portable Format for Bioinformatics (PFB)
+- Workflow Execution Service (WES)
 
 [**See more**](Technologies.md)
 
