@@ -1,10 +1,10 @@
 [Home](https://github.com/NIH-NCPI)/[Resources](README.md)/Training
 
-# Training
+<h1> Training </h1>
 
-## Participating Partner Systems Training Resources
+<h2> Participating Partner Systems Training Resources </h2>
 
-### AnVIL
+<h3> AnVIL </h3>
 
 This is an extensive collection of training resources covering major AnVIL components including [Terra](https://terra.bio/), [Gen3](https://gen3.org/), and [Dockstore](https://dockstore.org/). It includes information about setting up and managing accounts, accessing data, running analysis workflows, and performing interactive analyses.
 
@@ -23,7 +23,7 @@ This is an extensive collection of training resources covering major AnVIL compo
 
 ---
 
-### NHLBI BioData Catalyst
+<h3> NHLBI BioData Catalyst </h3>
 
 This is BDC's documentation on data access, exploration, and analysis, as well as information about the platforms and services it leverages to offer tools, applications, and workflows in secure workspaces.
 
@@ -40,7 +40,7 @@ This is BDC's documentation on data access, exploration, and analysis, as well a
 
 ---
 
-### CRDC
+<h3> CRDC </h3>
 
 This is a comprehensive collection of CRDC training resources developed by SevenBridges targeting users with different skill sets.
 
@@ -61,7 +61,7 @@ This is a comprehensive collection of CRDC training resources developed by Seven
 
 ---
 
-### Kids First
+<h3> Kids First </h3>
 
 The Kids First DRC supports the [Kids First Data Resource Portal](https://portal.kidsfirstdrc.org/) for building virtual cohorts and identifying data files. The Portal is integrated with [CAVATICA](https://cavatica.sbgenomics.com/), a cloud-based storage, sharing, and analysis platform developed by Seven Bridges.
 
@@ -83,16 +83,16 @@ The Kids First DRC supports the [Kids First Data Resource Portal](https://portal
 
 ---
 
-## Tutorials & Demos
+<h2> Tutorials & Demos </h2>
 
-### NCPI Cross Platform Data Access Demo (July 27, 2021)
+<h3> NCPI Cross Platform Data Access Demo (July 27, 2021) </h3>
 
 A demonstration of accessing datasets from four NCPI platforms in a single computational workspace.  
 [Watch on YouTube](https://www.youtube.com/watch?v=YGZTxDdaWqk)
 
 ---
 
-## Interoperability and Cloud Computing Resources
+<h2> Interoperability and Cloud Computing Resources </h2>
 
 | Training                                                                                                                                      | Cost                               | Note                                                 |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------|------------------------------------------------------|
@@ -109,13 +109,13 @@ A demonstration of accessing datasets from four NCPI platforms in a single compu
 
 ---
 
-## Archived Training Events
+<h2> Archived Training Events </h2>
 
-### Train Your Colleague – Virtual Session (March 17–18, 2020)
+<h3> Train Your Colleague – Virtual Session (March 17–18, 2020) </h3>
 
 The goal of this training session was to provide background information on the AnVIL, BioData Catalyst, Cancer Research Data Commons, and Kids First Platforms involved in the NIH Cloud Platforms Interoperability (NCPI) group to trainers and developers of these platforms.
 
-#### Day 1 – Component introduction
+<h4> Day 1 – Component introduction </h4> 
 
 | Session                                               | Materials                                                                                                                   |
 |-------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
@@ -128,7 +128,7 @@ The goal of this training session was to provide background information on the A
 | Seven Bridges introduction                            | [Video](https://youtu.be/1wHenZ0QR08)                                                                                       |
 | ISB-CGC introduction                                  | [Slides](Training_Slides/ISB-CGC-Components.pdf), [Video](https://youtu.be/JDqm7NsG46Y)                                       |
 
-#### Day 2 – Use cases
+<h4> Day 2 – Use cases </h4>
 
 | Session                                                                                                 | Materials                                           |
 |---------------------------------------------------------------------------------------------------------|-----------------------------------------------------|
