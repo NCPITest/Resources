@@ -104,11 +104,7 @@ A demonstration of accessing datasets from four NCPI platforms in a single compu
 | [AWS Skill Builder](https://explore.skillbuilder.aws/learn)                                                                                   | Mix of free and subscription       |                                                      |
 | [Microsoft Azure Resources for Academic Research](https://sway.office.com/bvawnEskQODqIONq)                                                   | Free                               |                                                      |
 | [Grow Skills with Google Cloud Training](https://cloud.google.com/learn/training?hl=en)                                                       | Most cost, some free               |                                                      |
-| [Getting Started with AnVIL](https://anvilproject.org/learn)                                                                                  | Free                               | AnVIL Videos                                         |
-| [NHLBI BioData Catalyst Documentation](https://bdcatalyst.gitbook.io/biodata-catalyst-documentation/)                                        | Free                               | Learn | BDC (nih.gov)                                     |
-| [Cancer Research Data Commons Documentation](https://datacommons.cancer.gov/support-researchers)                                              | Free                               | CRDC training materials                              |
 | [Cancer Data Science Course – Chapter 1: It's Never Too Early to Learn](https://datascience.cancer.gov/training/improve-data-science-skills/video-course/chapter/data-science-myths) | Free                               | Beginner series roadmap                              |
-| [KF Portal Overview – CFDE Training](https://training.nih-cfde.org/en/latest/Common-Fund-Tools/Kids-First/index.html)                          | Free                               | YouTube                                              |
 
 ---
 
