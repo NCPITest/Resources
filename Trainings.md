@@ -108,7 +108,7 @@ A demonstration of accessing datasets from four NCPI platforms in a single compu
 
 ---
 
-<h2> Past Training Events </h2>
+<h2> Previously Held Trainings </h2>
 
 <h3> Train Your Colleague – Virtual Session (March 17–18, 2020) </h3>
 
