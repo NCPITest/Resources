@@ -71,13 +71,13 @@ The Kids First DRC supports the [Kids First Data Resource Portal](https://portal
 **Training Resources**
 - [Kids First Help Center](https://d3b.notion.site/Kids-First-DRC-Help-Center-c26b36ff66564417834f3f264475d10a)
 - [Cavatica Support Documentation](https://docs.cavatica.org/)
-- [CFDE Training Documents for Kids First and Cavatica](https://training.nih-cfde.org/en/latest/Common-Fund-Tools/Kids-First/index.html)
 - [Recorded Webinars and Demonstrations](https://www.youtube.com/channel/UCK9sPu0j4_ci4m3nNFa6gVw/featured)
 
 **User Support**
 - [Email support](mailto:support@kidsfirstdrc.org)
 - [Monthly office hours](https://d3b.notion.site/Kids-First-Office-Hours-a77f6aa5889c4df4ae72302f92c51aa2) – 2nd Tuesday of each month
 - [Kids First Forum](https://forum.kidsfirstdrc.org)
+- [Frequently Asked Questions](https://kidsfirstdrc.org/faqs/)
 
 **Social Links**
 - [GitHub](https://github.com/kids-first)
@@ -108,7 +108,7 @@ A demonstration of accessing datasets from four NCPI platforms in a single compu
 
 ---
 
-<h2> Archived Training Events </h2>
+<h2> Past Training Events </h2>
 
 <h3> Train Your Colleague – Virtual Session (March 17–18, 2020) </h3>
 
