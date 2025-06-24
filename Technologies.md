@@ -12,6 +12,7 @@ Using RAS, a researcher accessing NIH data resources can log in with their eRA C
 
 RAS uses open standards and protocols and provides integrating systems with many standards-based options for integration. RAS is part of the NIH CIT IAM General Support System (GSS), a Federal Information Security Management Act (FISMA) High system. As such, RAS adheres to NIST 800-53 and 800-57 guidelines pertaining to configuration management, least privilege, and cryptographic key establishment & management.
 
+- For more information about RAS across NIH, see [Researcher Auth Service Initiative](https://datascience.nih.gov/researcher-auth-service-initiative). 
 - For detailed documentation of the RAS API see [Researcher Auth Service (RAS) Project Service Offerings](https://auth.nih.gov/docs/RAS/serviceofferings.html).
 
 ## Data Repository Service (GA4GH DRS)
