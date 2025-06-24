@@ -5,7 +5,7 @@
 <h2> Participating Partner Systems Training Resources </h2>
 
 <h3> 
-     <a href="https://anvilproject.org/"> AnVIL </a> 
+     <a href="https://anvilproject.org/"> AnVIL - </a> 
      <a href="https://twitter.com/useAnVIL">
           <img src="Images/x-logo.png" alt="X (Twitter) Logo" width = 20/> </a>
      <a href="https://join.slack.com/t/anvil-community/shared_invite/zt-hsyfam1w-LXlCv~3vNLSfDj~qNd5uBg">
@@ -15,12 +15,6 @@
      <a href="https://www.youtube.com/channel/UCBbHCj7kUogAMFyBAzzzfUw">
           <img src="Images/youtube-logo.png" alt="YouTube Logo" width = 30/> </a>
      </h3>
-
-
-
-
-
-
 
 <img src="https://github.com/user-attachments/assets/48c44286-9636-4b40-8a60-acc3189e0b06"
      align="right"
@@ -33,9 +27,9 @@
 This is an extensive collection of training resources covering major AnVIL components including [Terra](https://terra.bio/), [Gen3](https://gen3.org/), and [Dockstore](https://dockstore.org/). It includes information about setting up and managing accounts, accessing data, running analysis workflows, and performing interactive analyses.
 
 
-| Training Resources | User Support | Social Links |
-| --------------------- | ---------------- | ---------- |
-| - [Learn About AnVIL](https://anvilproject.org/learn) <br> - [Video tutorials](https://anvilproject.org/learn/watch-videos-and-tutorials/anvil-videos) | [Help Desk](https://anvilproject.org/help) | [X/Twitter](https://twitter.com/useAnVIL),  [Slack](https://join.slack.com/t/anvil-community/shared_invite/zt-hsyfam1w-LXlCv~3vNLSfDj~qNd5uBg) <br> [GitHub](https://github.com/anvilproject),  [YouTube](https://www.youtube.com/channel/UCBbHCj7kUogAMFyBAzzzfUw) |
+| Training Resources | User Support | 
+| --------------------- | ----------------------------- | 
+| - [Learn About AnVIL](https://anvilproject.org/learn) <br> - [Video tutorials](https://anvilproject.org/learn/watch-videos-and-tutorials/anvil-videos) | - [Help Desk](https://anvilproject.org/help) | 
 
 
  
