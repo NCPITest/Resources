@@ -10,7 +10,7 @@
 
 <img src="https://github.com/user-attachments/assets/48c44286-9636-4b40-8a60-acc3189e0b06"
      align="right"
-     alt="HL7 FHIR Logo"
+     alt="AnVIL Logo"
      width="450"
      height="165" />
 
