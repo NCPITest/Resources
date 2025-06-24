@@ -4,7 +4,9 @@
 
 <h2> Participating Partner Systems Training Resources </h2>
 
-<h3> AnVIL </h3>
+<h3> 
+     <a href="https://anvilproject.org/"> AnVIL </a> 
+</h3>
 
 <img src="https://github.com/user-attachments/assets/48c44286-9636-4b40-8a60-acc3189e0b06"
      align="right"
@@ -33,7 +35,7 @@ This is BDC's documentation on data access, exploration, and analysis, as well a
 - [Documentation](https://bdcatalyst.gitbook.io)
 - [Learning resources](https://biodatacatalyst.nhlbi.nih.gov/resources/learn)
 - [Video resources](https://www.youtube.com/@nhlbibiodatacatalyst8024/videos)
-- 
+
 
 **User Support**
 - [Support forum / knowledgebase](https://bdcatalyst.freshdesk.com/)
