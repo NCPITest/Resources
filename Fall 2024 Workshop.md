@@ -1,4 +1,4 @@
-[Home](https://github.com/NIH-NCPI)/[Resources](README.md)/[Events](Events.md)/Fall 2025 Workshop
+<img src="https://github.com/NCPITest/.github/blob/main/profile/ncpi-logo-close-crop.png" width="40" alt="NCPI Logo"/> [Home](https://github.com/NIH-NCPI)/[Resources](README.md)/[Events](Events.md)/Fall 2025 Workshop
 
 # NCPI Workshop Fall 2024
 
