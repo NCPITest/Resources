@@ -6,21 +6,23 @@
 
 <h3> AnVIL </h3>
 
+<img src="https://github.com/user-attachments/assets/48c44286-9636-4b40-8a60-acc3189e0b06"
+     align="right"
+     alt="HL7 FHIR Logo"
+     width="450"
+     height="165" />
+
+
+
 This is an extensive collection of training resources covering major AnVIL components including [Terra](https://terra.bio/), [Gen3](https://gen3.org/), and [Dockstore](https://dockstore.org/). It includes information about setting up and managing accounts, accessing data, running analysis workflows, and performing interactive analyses.
 
-**Training Resources**
-- [Learn About AnVIL](https://anvilproject.org/learn)
-- [Video tutorials](https://anvilproject.org/learn/watch-videos-and-tutorials/anvil-videos)
 
-**User Support**
-- [Help Desk](https://anvilproject.org/help)
+| Training Resources | User Support | Social Links |
+| --------------------- | ---------------- | ---------- |
+| [Learn About AnVIL](https://anvilproject.org/learn) <br> [Video tutorials](https://anvilproject.org/learn/watch-videos-and-tutorials/anvil-videos) | [Help Desk](https://anvilproject.org/help) | [X/Twitter](https://twitter.com/useAnVIL),  [Slack](https://join.slack.com/t/anvil-community/shared_invite/zt-hsyfam1w-LXlCv~3vNLSfDj~qNd5uBg) <br> [GitHub](https://github.com/anvilproject),  [YouTube](https://www.youtube.com/channel/UCBbHCj7kUogAMFyBAzzzfUw) |
 
-**Social links**
-- [X/Twitter](https://twitter.com/useAnVIL)
-- [Slack](https://join.slack.com/t/anvil-community/shared_invite/zt-hsyfam1w-LXlCv~3vNLSfDj~qNd5uBg)
-- [GitHub](https://github.com/anvilproject)
-- [YouTube](https://www.youtube.com/channel/UCBbHCj7kUogAMFyBAzzzfUw)
 
+ 
 ---
 
 <h3> NHLBI BioData Catalyst </h3>
