@@ -28,7 +28,7 @@ This is an extensive collection of training resources covering major AnVIL compo
 
 | Training Resources | User Support | 
 | --------------------- | ----------------------------- | 
-| - [Learn About AnVIL](https://anvilproject.org/learn) <br> - [Video tutorials](https://anvilproject.org/learn/watch-videos-and-tutorials/anvil-videos) | - [Help Desk](https://anvilproject.org/help) | 
+| - [Learn About AnVIL](https://anvilproject.org/learn) <br> - [Video tutorials](https://anvilproject.org/learn/watch-videos-and-tutorials/anvil-videos) | - [Help Desk](https://anvilproject.org/help) <br> <br>| 
  
 ---
 
@@ -43,60 +43,66 @@ This is an extensive collection of training resources covering major AnVIL compo
 <img src="Images/bdc.png"
      align="right"
      alt="BioData Catalyst Logo"
-     width="450" />
+     width="470" />
 
-This is BDC's documentation on data access, exploration, and analysis, as well as information about the platforms and services it leverages to offer tools, applications, and workflows in secure workspaces.
+ 
+This is BDC's documentation on data access, exploration, and analysis, as well as information about the platforms and services it leverages to offer tools, applications, and workflows in secure workspaces. <br> 
 
 | Training Resources | User Support | 
 | --------------------- | ----------------------------- | 
 | - [Documentation](https://bdcatalyst.gitbook.io) <br> - [Learning resources](https://biodatacatalyst.nhlbi.nih.gov/resources/learn) <br> - [Video resources](https://www.youtube.com/@nhlbibiodatacatalyst8024/videos) | - [Support forum/knowledgebase](https://bdcatalyst.freshdesk.com/) <br> - [Help Desk](https://biodatacatalyst.nhlbi.nih.gov/contact) <br> - [User FAQs](https://bdcatalyst.freshdesk.com/support/solutions/folders/60000230495) | 
 
 
-
-
-
 ---
 
-<h3> CRDC </h3>
+<h3> 
+     <a href="https://datacommons.cancer.gov/"> NCI CRDC - </a> 
+     <a href="https://twitter.com/isb_cgc?lang=en">
+          <img src="Images/x-logo.png" alt="X (Twitter) Icon" width = 20/> </a>     
+     </h3>
+
+<img src="Images/nci-crdc.png"
+     align="right"
+     alt="Nationl Cancer Institute Cancer Data Commons Logo"
+     width="450" />
+
+
 
 This is a comprehensive collection of CRDC training resources developed by SevenBridges targeting users with different skill sets.
 
-**Training Resources**
-- [Documentation - Support for Researchers](https://datacommons.cancer.gov/support-researchers)
-- [Tutorials and Guides - Support for CRDC Data Commons](https://datacommons.cancer.gov/support-crdc-data-commons)
-- [Apps gallery](https://datacommons.cancer.gov/support-crdc-cloud-resources)
-- [Video tutorials](https://datacommons.cancer.gov/webinars-and-presentations)
+| Training Resources    | User Support  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 
+| --------------------- | ----------------------------- | 
+| - [Documentation - Support for Researchers](https://datacommons.cancer.gov/support-researchers) <br> - [Tutorials and Guides - Support for CRDC Data Commons](https://datacommons.cancer.gov/support-crdc-data-commons) <br> - [Apps gallery](https://datacommons.cancer.gov/support-crdc-cloud-resources) <br> - [Video tutorials](https://datacommons.cancer.gov/webinars-and-presentations) | - [Email support](mailto:NCICRDC@mail.nih.gov) <br> <br> <br> | 
 
-**User Support**
-- [Email support](mailto:NCICRDC@mail.nih.gov)
-
-**Social links**
-- [#NCICommons](https://twitter.com/search?q=%23ncicommons&lang=en)
-- [@genomicscloud](https://twitter.com/search?q=%40genomicscloud)
-- [@BroadFireCloud](https://twitter.com/search?q=%40BroadFireCloud)
-- [@isb_cgc](https://twitter.com/isb_cgc?lang=en)
 
 ---
 
-<h3> Kids First </h3>
+<h3> 
+     <a href="https://kidsfirstdrc.org/"> Kids First Data Resource Center - </a> 
+     <a href="https://github.com/kids-first">
+          <img src="Images/github-logo.png" alt="GitHub Icon" width = 20/> </a> 
+     <a href="https://www.facebook.com/kidsfirstDRC/?ref=bookmarks">
+          <img src="Images/facebook-icon.png" alt="YouTube Icon" width = 25/> </a>
+     <a href="https://twitter.com/kidsfirstdrc?lang=en">
+          <img src="Images/x-logo.png" alt = "X (Twitter) Icon" width = 20/> </a>
+</h3>
+<img src="Images/logo-kidsfirst.png"
+     align="right"
+     alt="Kids First Data Resource Center Logo"
+     width="450" />
+
 
 The Kids First DRC supports the [Kids First Data Resource Portal](https://portal.kidsfirstdrc.org/) for building virtual cohorts and identifying data files. The Portal is integrated with [CAVATICA](https://cavatica.sbgenomics.com/), a cloud-based storage, sharing, and analysis platform developed by Seven Bridges.
 
-**Training Resources**
-- [Kids First Help Center](https://d3b.notion.site/Kids-First-DRC-Help-Center-c26b36ff66564417834f3f264475d10a)
-- [Cavatica Support Documentation](https://docs.cavatica.org/)
-- [Recorded Webinars and Demonstrations](https://www.youtube.com/channel/UCK9sPu0j4_ci4m3nNFa6gVw/featured)
 
-**User Support**
-- [Email support](mailto:support@kidsfirstdrc.org)
-- [Monthly office hours](https://d3b.notion.site/Kids-First-Office-Hours-a77f6aa5889c4df4ae72302f92c51aa2) – 2nd Tuesday of each month
-- [Kids First Forum](https://forum.kidsfirstdrc.org)
-- [Frequently Asked Questions](https://kidsfirstdrc.org/faqs/)
+<br>
 
-**Social Links**
-- [GitHub](https://github.com/kids-first)
-- [Facebook](https://www.facebook.com/kidsfirstDRC/?ref=bookmarks)
-- [X/Twitter](https://twitter.com/kidsfirstdrc?lang=en)
+<br>
+
+| Training Resources | User Support | 
+| --------------------- | ----------------------------- | 
+| - [Kids First Help Center](https://d3b.notion.site/Kids-First-DRC-Help-Center-c26b36ff66564417834f3f264475d10a) <br> - [Cavatica Support Documentation](https://docs.cavatica.org/) <br> - [Recorded Webinars and Demonstrations](https://www.youtube.com/channel/UCK9sPu0j4_ci4m3nNFa6gVw/featured) | - [Email support](mailto:support@kidsfirstdrc.org) <br> - [Monthly office hours](https://d3b.notion.site/Kids-First-Office-Hours-a77f6aa5889c4df4ae72302f92c51aa2) – 2nd Tuesday of each month <br> - [Kids First Forum](https://forum.kidsfirstdrc.org) <br> - [Frequently Asked Questions](https://kidsfirstdrc.org/faqs/) | 
+
 
 ---
 
