@@ -21,7 +21,7 @@ This is an extensive collection of training resources covering major AnVIL compo
 
 | Training Resources | User Support | Social Links |
 | --------------------- | ---------------- | ---------- |
-| [Learn About AnVIL](https://anvilproject.org/learn) <br> [Video tutorials](https://anvilproject.org/learn/watch-videos-and-tutorials/anvil-videos) | [Help Desk](https://anvilproject.org/help) | [X/Twitter](https://twitter.com/useAnVIL),  [Slack](https://join.slack.com/t/anvil-community/shared_invite/zt-hsyfam1w-LXlCv~3vNLSfDj~qNd5uBg) <br> [GitHub](https://github.com/anvilproject),  [YouTube](https://www.youtube.com/channel/UCBbHCj7kUogAMFyBAzzzfUw) |
+| - [Learn About AnVIL](https://anvilproject.org/learn) <br> - [Video tutorials](https://anvilproject.org/learn/watch-videos-and-tutorials/anvil-videos) | [Help Desk](https://anvilproject.org/help) | [X/Twitter](https://twitter.com/useAnVIL),  [Slack](https://join.slack.com/t/anvil-community/shared_invite/zt-hsyfam1w-LXlCv~3vNLSfDj~qNd5uBg) <br> [GitHub](https://github.com/anvilproject),  [YouTube](https://www.youtube.com/channel/UCBbHCj7kUogAMFyBAzzzfUw) |
 
 
  
