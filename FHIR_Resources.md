@@ -2,7 +2,14 @@
 
 <h1> Introduction to FHIR </h1>
 
-Fast Healthcare Interoperability Resources (FHIR) is a standard for exchanging electronic healthcare information developed by Health Level Seven International (HL7).
+
+<img src="https://github.com/user-attachments/assets/5e6f167a-97c8-4a99-904f-0b11f3b7f15c"
+     align="left"
+     alt="High-level diagram illustrating the NCPI structure"
+     width="415"
+     height="100" />
+
+<br> Fast Healthcare Interoperability Resources (FHIR) is a standard for exchanging electronic healthcare information developed by Health Level Seven International (HL7).
 
 FHIR defines data elements called **Resources**—such as `Patient`, `Observation`, or `Specimen`—and outlines their structure and sharing via web technologies like RESTful APIs, JSON, and XML. Its modular design supports interoperability across diverse health information systems.
 
