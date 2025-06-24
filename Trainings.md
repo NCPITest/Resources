@@ -1,4 +1,4 @@
-[Home](https://github.com/NIH-NCPI)/[Resources](README.md)/Training
+<img src="https://github.com/NCPITest/.github/blob/main/profile/ncpi-logo-close-crop.png" width="40" alt="NCPI Logo"/> [Home](https://github.com/NIH-NCPI)/[Resources](README.md)/Training
 
 <h1> Training </h1>
 
