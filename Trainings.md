@@ -5,22 +5,21 @@
 <h2> Participating Partner Systems Training Resources </h2>
 
 <h3> 
-     <a href="https://anvilproject.org/"> AnVIL - </a> 
+     <a href="https://anvilproject.org/"> NHGRI AnVIL - </a> 
      <a href="https://twitter.com/useAnVIL">
-          <img src="Images/x-logo.png" alt="X (Twitter) Logo" width = 20/> </a>
+          <img src="Images/x-logo.png" alt="X (Twitter) Icon" width = 20/> </a>
      <a href="https://join.slack.com/t/anvil-community/shared_invite/zt-hsyfam1w-LXlCv~3vNLSfDj~qNd5uBg">
-          <img src="Images/slack-icon.png" alt="Slack Logo" width = 20/> </a>
+          <img src="Images/slack-icon.png" alt="Slack Icon" width = 20/> </a>
      <a href="https://github.com/anvilproject">
-          <img src="Images/github-logo.png" alt="GitHub Logo" width = 20/> </a>     
+          <img src="Images/github-logo.png" alt="GitHub Icon" width = 20/> </a>     
      <a href="https://www.youtube.com/channel/UCBbHCj7kUogAMFyBAzzzfUw">
-          <img src="Images/youtube-logo.png" alt="YouTube Logo" width = 30/> </a>
+          <img src="Images/youtube-icon.png" alt="YouTube Icon" width = 25/> </a>
      </h3>
 
-<img src="https://github.com/user-attachments/assets/48c44286-9636-4b40-8a60-acc3189e0b06"
+<img src="Images/logo-anvil.png"
      align="right"
      alt="AnVIL Logo"
-     width="450"
-     height="165" />
+     width="450" />
 
 
 
@@ -30,28 +29,31 @@ This is an extensive collection of training resources covering major AnVIL compo
 | Training Resources | User Support | 
 | --------------------- | ----------------------------- | 
 | - [Learn About AnVIL](https://anvilproject.org/learn) <br> - [Video tutorials](https://anvilproject.org/learn/watch-videos-and-tutorials/anvil-videos) | - [Help Desk](https://anvilproject.org/help) | 
-
-
  
 ---
 
-<h3> NHLBI BioData Catalyst </h3>
+<h3> 
+     <a href="https://biodatacatalyst.nhlbi.nih.gov//"> NHLBI BioData Catalyst - </a> 
+     <a href="https://twitter.com/useAnVIL">
+          <img src="Images/x-logo.png" alt="X (Twitter) Icon" width = 20/> </a> 
+     <a href="https://www.youtube.com/@nhlbibiodatacatalyst8024">
+          <img src="Images/youtube-icon.png" alt="YouTube Icon" width = 25/> </a>
+</h3>
+
+<img src="Images/bdc.png"
+     align="right"
+     alt="BioData Catalyst Logo"
+     width="450" />
 
 This is BDC's documentation on data access, exploration, and analysis, as well as information about the platforms and services it leverages to offer tools, applications, and workflows in secure workspaces.
 
-**Training Resources**
-- [Documentation](https://bdcatalyst.gitbook.io)
-- [Learning resources](https://biodatacatalyst.nhlbi.nih.gov/resources/learn)
-- [Video resources](https://www.youtube.com/@nhlbibiodatacatalyst8024/videos)
+| Training Resources | User Support | 
+| --------------------- | ----------------------------- | 
+| - [Documentation](https://bdcatalyst.gitbook.io) <br> - [Learning resources](https://biodatacatalyst.nhlbi.nih.gov/resources/learn) <br> - [Video resources](https://www.youtube.com/@nhlbibiodatacatalyst8024/videos) | - [Support forum/knowledgebase](https://bdcatalyst.freshdesk.com/) <br> - [Help Desk](https://biodatacatalyst.nhlbi.nih.gov/contact) <br> - [User FAQs](https://bdcatalyst.freshdesk.com/support/solutions/folders/60000230495) | 
 
 
-**User Support**
-- [Support forum / knowledgebase](https://bdcatalyst.freshdesk.com/)
-- [Help Desk](https://biodatacatalyst.nhlbi.nih.gov/contact)
-- [User FAQs](https://bdcatalyst.freshdesk.com/support/solutions/folders/60000230495)
 
-**Social links**
-- [X/Twitter](https://twitter.com/search?q=%23BioDataCatalyst)
+
 
 ---
 
