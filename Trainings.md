@@ -6,7 +6,7 @@
 
 <h3> 
      <a href="https://anvilproject.org/"> AnVIL </a> 
-     <a href="https://www.youtube.com/channel/UCBbHCj7kUogAMFyBAzzzfUw" target="_blank" rel="noopener noreferrer">
+     <a href="https://www.youtube.com/channel/UCBbHCj7kUogAMFyBAzzzfUw">
           <img src="Images/youtube-logo.png" alt="YouTube Logo" width = 30/> </a>
 </h3>
 
