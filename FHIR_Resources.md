@@ -4,7 +4,7 @@
 
 
 <img src="https://github.com/user-attachments/assets/5e6f167a-97c8-4a99-904f-0b11f3b7f15c"
-     align="left"
+     align="right"
      alt="HL7 FHIR Logo"
      width="415"
      height="100" />
