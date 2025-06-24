@@ -6,10 +6,15 @@
 
 <h3> 
      <a href="https://anvilproject.org/"> AnVIL </a> 
+     <a href="https://twitter.com/useAnVIL">
+          <img src="Images/x-logo.png" alt="X (Twitter) Logo" width = 20/> </a>
+     <a href="https://join.slack.com/t/anvil-community/shared_invite/zt-hsyfam1w-LXlCv~3vNLSfDj~qNd5uBg">
+          <img src="Images/slack-icon.png" alt="Slack Logo" width = 20/> </a>
+     <a href="https://github.com/anvilproject">
+          <img src="Images/github-logo.png" alt="GitHub Logo" width = 20/> </a>     
      <a href="https://www.youtube.com/channel/UCBbHCj7kUogAMFyBAzzzfUw">
           <img src="Images/youtube-logo.png" alt="YouTube Logo" width = 30/> </a>
-     
-</h3>
+     </h3>
 
 
 
