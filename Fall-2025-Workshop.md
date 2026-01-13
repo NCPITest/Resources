@@ -48,7 +48,7 @@ Once implemented, users will be able to build cohorts in the AnVIL Data explorer
 
 <h3> Kids First dbGaP ImmPort FHIR and DRS in CAVATICA </h3>
 <a href = https://www.youtube.com/watch?v=AvG2mu5KtTw>
-  <img src="https://github.com/NCPITest/Resources/blob/main/Images/KF-dbGaP-ImmPort-FHIR.jpg"
+  <img src="https://github.com/NCPITest/Resources/blob/main/Images/KF-dbGaP-ImmPort-FHIR-CAVATICA.jpg"
   align="right"
   alt="Video Thumbnail for KidsFirst dbGaP ImmPort FHIR and DRS in CAVATICA"
   width="550"</>
