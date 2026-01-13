@@ -32,13 +32,24 @@ This demonstration walks through the process of finding data, using the Watershe
   <img src="https://github.com/NCPITest/Resources/blob/main/Images/PFB-export-demo.jpg"
     align="left"
     alt="Video Thumbnail for PFB Import Demonstration"
-    width="550"/>
+    width="550"/> 
 </a>
 
 Portable Format for Bioinformatics (PFB) is an Avro-based file format that bundles data, schema, ontologies, and pointers to data files in a single backage, and can be easily sent across systems, with built-in flexibility for different data models. 
+
 This demonstration shows PFB handoff from the AnVIL Data Explorer to Kids First CAVATICA, allowing for analysis of AnVIL data in the CAVATICA environment. 
 Once implemented, users will be able to build cohorts in the AnVIL Data explorer, and export the cohort to CAVATICA while passing a PFB manifest, and eventually analyze the data in CAVATICA alongside other data. Implementation of this feature is expected in Q1 of 2026. 
 
+<br>
 
+------------------------------------------
 
+<h3> Kids First dbGaP ImmPort FHIR and DRS in CAVATICA </h3>
+<a href = https://www.youtube.com/watch?v=AvG2mu5KtTw>
+  <img src="https://github.com/NCPITest/Resources/blob/main/Images/KF-dbGaP-ImmPort-FHIR.jpg"
+  align="right"
+  alt="Video Thumbnail for KidsFirst dbGaP ImmPort FHIR and DRS in CAVATICA"
+  width="550"</>
+</a>
 
+At the Fall Workshop, the team from P01-003, the KidsFirst-dbGaP-ImmPort Project, presented the two use cases within their project work: (1) Phenotypic Expansions of Structural Birth defects using Kids First and Undiagnosed Disease Network Data and (2) Identifying the genetic and environmental determinants impacting Asthma Severity in Children.  After giving brief project updates, they gave a demonstration on connecting FHIR with DRS files in CAVATICA, enabling interoperability between platforms. 
