@@ -15,10 +15,11 @@ At the workshop, representatives from NCPI Interoperability projects gave a seri
 
 <a href = "https://www.youtube.com/watch?v=-ry91cDRVwI">
 <img src="https://github.com/NCPITest/Resources/blob/main/Images/Watershed-Demo.jpg"
+  style="border: 2px solid #007CB0; border-radius: 8px;"
   align="right"
   alt="Video Thumbnail for Watershed Demonstration including project title, presenter, and date"
-  width="550"
-  style="border: 2px solid #007CB0; border-radius: 8px;" />
+  width="550" />
+
 </a>
   
 Dr. Schatz’s work on the AnVIL-BioData Catalyst Interoperability project aims to leverage GTEx, T2T, and HPRC datasets to study rare genetic variants in TOPMed cohorts. 
