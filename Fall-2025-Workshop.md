@@ -53,5 +53,5 @@ Once implemented, users will be able to build cohorts in the AnVIL Data explorer
   alt="Video Thumbnail for KidsFirst dbGaP ImmPort FHIR and DRS in CAVATICA"
   width="550"</>
 </a>
-
-At the Fall Workshop, the team from P01-003, the KidsFirst-dbGaP-ImmPort Project, presented the two use cases within their project work: (1) Phenotypic Expansions of Structural Birth defects using Kids First and Undiagnosed Disease Network Data and (2) Identifying the genetic and environmental determinants impacting Asthma Severity in Children.  After giving brief project updates, they gave a demonstration on connecting FHIR with DRS files in CAVATICA, enabling interoperability between platforms. 
+<br>
+At the Fall Workshop, the team from P01-003, the KidsFirst-dbGaP-ImmPort Project, presented the two use cases within their project work: (1) Phenotypic Expansions of Structural Birth defects using Kids First and Undiagnosed Disease Network Data and (2) Identifying the genetic and environmental determinants impacting Asthma Severity in Children. After giving brief project updates, they gave a demonstration on connecting FHIR with DRS files in CAVATICA, enabling interoperability between platforms. 
