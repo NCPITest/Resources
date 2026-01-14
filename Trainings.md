@@ -50,7 +50,7 @@ This is BDC's documentation on data access, exploration, and analysis, as well a
 
 | Training Resources | User Support | 
 | --------------------- | ----------------------------- | 
-| - [Documentation](https://bdcatalyst.gitbook.io) <br> - [Learning resources](https://biodatacatalyst.nhlbi.nih.gov/resources/learn) <br> - [Video resources](https://www.youtube.com/@nhlbibiodatacatalyst8024/videos) | - [Support forum/knowledgebase](https://bdcatalyst.freshdesk.com/) <br> - [Help Desk](https://biodatacatalyst.nhlbi.nih.gov/contact) <br> - [User FAQs](https://bdcatalyst.freshdesk.com/support/solutions/folders/60000230495) | 
+| - [Documentation](https://bdcatalyst.gitbook.io) <br> - [Learning resources](https://biodatacatalyst.nhlbi.nih.gov/resources/learn) <br> - [Video resources](https://www.youtube.com/@nhlbibiodatacatalyst8024/videos) <br> - [Gen3 User Guide](https://gen3.org/resources/user/)| - [Support forum/knowledgebase](https://bdcatalyst.freshdesk.com/) <br> - [Help Desk](https://biodatacatalyst.nhlbi.nih.gov/contact) <br> - [User FAQs](https://bdcatalyst.freshdesk.com/support/solutions/folders/60000230495) <br> <br>| 
 
 
 ---
@@ -70,9 +70,11 @@ This is BDC's documentation on data access, exploration, and analysis, as well a
 
 This is a comprehensive collection of CRDC training resources developed by SevenBridges targeting users with different skill sets.
 
+<br>
+ 
 | Training Resources    | User Support  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 
 | --------------------- | ----------------------------- | 
-| - [Documentation - Support for Researchers](https://datacommons.cancer.gov/support-researchers) <br> - [Tutorials and Guides - Support for CRDC Data Commons](https://datacommons.cancer.gov/support-crdc-data-commons) <br> - [Apps gallery](https://datacommons.cancer.gov/support-crdc-cloud-resources) <br> - [Video tutorials](https://datacommons.cancer.gov/webinars-and-presentations) | - [Email support](mailto:NCICRDC@mail.nih.gov) <br> <br> <br> | 
+| - [Documentation - Support for Researchers](https://datacommons.cancer.gov/support-researchers) <br> - [Tutorials and Guides - Support for CRDC Data Commons](https://datacommons.cancer.gov/support-crdc-data-commons) <br> - [Apps gallery](https://datacommons.cancer.gov/support-crdc-cloud-resources) <br> - [Video tutorials](https://datacommons.cancer.gov/webinars-and-presentations) <br> - [Cancer Genomics Cloud Documentation](https://docs.cancergenomicscloud.org/) <br> - [Gen3 User Guide](https://gen3.org/resources/user/)| - [Email support](mailto:NCICRDC@mail.nih.gov)  <br> <br> <br> <br> <br> <br>| 
 
 
 ---
@@ -101,7 +103,7 @@ The Kids First DRC supports the [Kids First Data Resource Portal](https://portal
 
 | Training Resources | User Support | 
 | --------------------- | ----------------------------- | 
-| - [Kids First Help Center](https://d3b.notion.site/Kids-First-DRC-Help-Center-c26b36ff66564417834f3f264475d10a) <br> - [Cavatica Support Documentation](https://docs.cavatica.org/) <br> - [Recorded Webinars and Demonstrations](https://www.youtube.com/channel/UCK9sPu0j4_ci4m3nNFa6gVw/featured) | - [Email support](mailto:support@kidsfirstdrc.org) <br> - [Monthly office hours](https://d3b.notion.site/Kids-First-Office-Hours-a77f6aa5889c4df4ae72302f92c51aa2) – 2nd Tuesday of each month <br> - [Kids First Forum](https://forum.kidsfirstdrc.org) <br> - [Frequently Asked Questions](https://kidsfirstdrc.org/faqs/) | 
+| - [Kids First Help Center](https://d3b.notion.site/Kids-First-DRC-Help-Center-c26b36ff66564417834f3f264475d10a) <br> - [Cavatica Support Documentation](https://docs.cavatica.org/) <br> - [Recorded Webinars and Demonstrations](https://www.youtube.com/channel/UCK9sPu0j4_ci4m3nNFa6gVw/featured) <br> - [CAVATICA Documentation](https://docs.cavatica.org/)| - [Email support](mailto:support@kidsfirstdrc.org) <br> - [Monthly office hours](https://d3b.notion.site/Kids-First-Office-Hours-a77f6aa5889c4df4ae72302f92c51aa2) – 2nd Tuesday of each month <br> - [Kids First Forum](https://forum.kidsfirstdrc.org) <br> - [Frequently Asked Questions](https://kidsfirstdrc.org/faqs/)  | 
 
 
 ---
