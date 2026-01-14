@@ -17,15 +17,15 @@ The [NCPI Search Working Group](https://github.com/NIH-NCPI/About/blob/main/Work
 
 
 <h2> Watershed and Watershed-SV Models </h2>
-Watershed is a probabalistic model that integrates both genomic and transcriptomic signals to predict the function or rare variants, <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7646251/"  initially published in 2020.> published in 2020 </a>.  The Watershed GitHub, detailing the model and how to run it, can be found <a href="https://github.com/BennyStrobes/Watershed"> here </a>. Recently, Watershed has been made available on Docktore through work 
+Watershed is a probabalistic model that integrates both genomic and transcriptomic signals to predict the function or rare variants, <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7646251/">published in 2020</a>.  The Watershed GitHub, detailing the model and how to run it, can be found <a href="https://github.com/BennyStrobes/Watershed">here</a>. Recently, Watershed has been made available on Docktore through work 
 
 
 
 <h3> <a href="https://pubmed.ncbi.nlm.nih.gov/40113264/"> Integration of transcriptomics and long-read genomics prioritizes structural variants in rare disease</a> </h3>
 
-The Watershed-SV model, developed by the <a href="https://github.com/NIH-NCPI/Interoperability-Projects/blob/main/Project%20Descriptions/JHU-AnVIL-BDC.md"> AnVIL-BioData Catalyst Inteoperability Project </a>, was trained using matched DNA and RNA datasets from GTEx, and applied to a clinical cohort from the Undiagnosed Disease Network, leading to the discovery of compound heterozygous deletions likely causing a rare neurodevelopmental disorder. This publication details the analysis and findings.
+The Watershed-SV model, developed by the <a href="https://github.com/NIH-NCPI/Interoperability-Projects/blob/main/Project%20Descriptions/JHU-AnVIL-BDC.md">AnVIL-BioData Catalyst Inteoperability Project</a>, was trained using matched DNA and RNA datasets from GTEx, and applied to a clinical cohort from the Undiagnosed Disease Network, leading to the discovery of compound heterozygous deletions likely causing a rare neurodevelopmental disorder. It extends the existing Watershed to model the impact of rare structural variants. This publication details the analysis and findings.
 <br>
-More information on the Watershed-SV model can be found <a href="https://github.com/jasonbhn/Watershed-SV"> here </a>. 
+More information on the Watershed-SV model can be found <a href="https://github.com/jasonbhn/Watershed-SV">here</a>. 
 
 
 
