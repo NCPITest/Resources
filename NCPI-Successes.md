@@ -1,3 +1,11 @@
+Notes for Emma:
+* Re-tool formatting to reflect categories in interop solutions report
+* go over projcts again to look for more milestones and other things to include
+* list of optional inclusions to run by Janey
+
+
+
+
 Since its inception in 2019, NCPI stakeholders have made significant strides to increase interoperability across the five NCPI partner sytems. A curated list of accompliments are detailed below. 
 
 <h3> NCPI FHIR Implementation Guide, 2026</h3>
