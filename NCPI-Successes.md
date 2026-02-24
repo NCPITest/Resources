@@ -7,38 +7,13 @@ The NCPI FHIR working group has developed an guide for the implementation of FHI
 <h4> High Level Picture </h4>
 NCPI FHIR IG defines the structure of a study using the following Resource Types (Entities):
 
+<p align="center"><img src="https://github.com/NCPITest/Resources/blob/main/Images/research-study-structure.png" width="550" alt="High-level diagram of study structure in NCPI FHIR Implementation Guide"/>
 
 
 
-
-Our Implementation Guide defines the structure of a study using the following Resource Types (Entities). Your project will contain instances of these resource types, tagged with your identifiers and described by a defined vocabulary of CodableConcepts.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br>
 
 Additional documentation can be found on the [NCPI FHIR IG GitHub](https://github.com/NIH-NCPI/ncpi-fhir-ig-2?tab=readme-ov-file).  
-
-
-
-
-
-
-
 
 
 <h3> FHIR Aggregator </h3>
