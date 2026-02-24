@@ -1,4 +1,4 @@
-Since its inception in 2019, NCPI stakeholders have published (more blurb to be added)
+Since its inception in 2019, NCPI stakeholders have made significant strides to increase interoperability across the five NCPI partner sytems. A curated list of accompliments are detailed below. 
 
 <h3> NCPI FHIR Implementation Guide, 2026</h3>
 
